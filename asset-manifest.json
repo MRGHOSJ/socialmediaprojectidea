@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/myappcopyfb/static/css/main.80ece895.chunk.css",
-    "main.js": "/myappcopyfb/static/js/main.7e483b0c.chunk.js",
-    "main.js.map": "/myappcopyfb/static/js/main.7e483b0c.chunk.js.map",
-    "runtime~main.js": "/myappcopyfb/static/js/runtime~main.bf59ce3b.js",
-    "runtime~main.js.map": "/myappcopyfb/static/js/runtime~main.bf59ce3b.js.map",
-    "static/css/2.5ec480d0.chunk.css": "/myappcopyfb/static/css/2.5ec480d0.chunk.css",
-    "static/js/2.8603bda2.chunk.js": "/myappcopyfb/static/js/2.8603bda2.chunk.js",
-    "static/js/2.8603bda2.chunk.js.map": "/myappcopyfb/static/js/2.8603bda2.chunk.js.map",
-    "index.html": "/myappcopyfb/index.html",
-    "precache-manifest.e2a7baf3c9e4e71021c07b1b15e0149c.js": "/myappcopyfb/precache-manifest.e2a7baf3c9e4e71021c07b1b15e0149c.js",
-    "service-worker.js": "/myappcopyfb/service-worker.js",
-    "static/css/2.5ec480d0.chunk.css.map": "/myappcopyfb/static/css/2.5ec480d0.chunk.css.map",
-    "static/css/main.80ece895.chunk.css.map": "/myappcopyfb/static/css/main.80ece895.chunk.css.map"
+    "main.css": "/myWebappcopyfb/static/css/main.80ece895.chunk.css",
+    "main.js": "/myWebappcopyfb/static/js/main.45c52f76.chunk.js",
+    "main.js.map": "/myWebappcopyfb/static/js/main.45c52f76.chunk.js.map",
+    "runtime~main.js": "/myWebappcopyfb/static/js/runtime~main.475fb932.js",
+    "runtime~main.js.map": "/myWebappcopyfb/static/js/runtime~main.475fb932.js.map",
+    "static/css/2.5ec480d0.chunk.css": "/myWebappcopyfb/static/css/2.5ec480d0.chunk.css",
+    "static/js/2.3b2695b3.chunk.js": "/myWebappcopyfb/static/js/2.3b2695b3.chunk.js",
+    "static/js/2.3b2695b3.chunk.js.map": "/myWebappcopyfb/static/js/2.3b2695b3.chunk.js.map",
+    "index.html": "/myWebappcopyfb/index.html",
+    "precache-manifest.fab827df17ffd398cc3297e2e18008da.js": "/myWebappcopyfb/precache-manifest.fab827df17ffd398cc3297e2e18008da.js",
+    "service-worker.js": "/myWebappcopyfb/service-worker.js",
+    "static/css/2.5ec480d0.chunk.css.map": "/myWebappcopyfb/static/css/2.5ec480d0.chunk.css.map",
+    "static/css/main.80ece895.chunk.css.map": "/myWebappcopyfb/static/css/main.80ece895.chunk.css.map"
   }
 }
