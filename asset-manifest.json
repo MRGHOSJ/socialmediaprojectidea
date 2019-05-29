@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/myWebappcopyfb/static/css/main.80ece895.chunk.css",
-    "main.js": "/myWebappcopyfb/static/js/main.45c52f76.chunk.js",
-    "main.js.map": "/myWebappcopyfb/static/js/main.45c52f76.chunk.js.map",
-    "runtime~main.js": "/myWebappcopyfb/static/js/runtime~main.475fb932.js",
-    "runtime~main.js.map": "/myWebappcopyfb/static/js/runtime~main.475fb932.js.map",
-    "static/css/2.5ec480d0.chunk.css": "/myWebappcopyfb/static/css/2.5ec480d0.chunk.css",
-    "static/js/2.3b2695b3.chunk.js": "/myWebappcopyfb/static/js/2.3b2695b3.chunk.js",
-    "static/js/2.3b2695b3.chunk.js.map": "/myWebappcopyfb/static/js/2.3b2695b3.chunk.js.map",
-    "index.html": "/myWebappcopyfb/index.html",
-    "precache-manifest.fab827df17ffd398cc3297e2e18008da.js": "/myWebappcopyfb/precache-manifest.fab827df17ffd398cc3297e2e18008da.js",
-    "service-worker.js": "/myWebappcopyfb/service-worker.js",
-    "static/css/2.5ec480d0.chunk.css.map": "/myWebappcopyfb/static/css/2.5ec480d0.chunk.css.map",
-    "static/css/main.80ece895.chunk.css.map": "/myWebappcopyfb/static/css/main.80ece895.chunk.css.map"
+    "main.css": "/socialmediaprojectidea/static/css/main.80ece895.chunk.css",
+    "main.js": "/socialmediaprojectidea/static/js/main.28566477.chunk.js",
+    "main.js.map": "/socialmediaprojectidea/static/js/main.28566477.chunk.js.map",
+    "runtime~main.js": "/socialmediaprojectidea/static/js/runtime~main.a0979b3b.js",
+    "runtime~main.js.map": "/socialmediaprojectidea/static/js/runtime~main.a0979b3b.js.map",
+    "static/css/2.5ec480d0.chunk.css": "/socialmediaprojectidea/static/css/2.5ec480d0.chunk.css",
+    "static/js/2.94e9e5c4.chunk.js": "/socialmediaprojectidea/static/js/2.94e9e5c4.chunk.js",
+    "static/js/2.94e9e5c4.chunk.js.map": "/socialmediaprojectidea/static/js/2.94e9e5c4.chunk.js.map",
+    "index.html": "/socialmediaprojectidea/index.html",
+    "precache-manifest.d5827fcef3b2cb69e664bfafb9b5aad8.js": "/socialmediaprojectidea/precache-manifest.d5827fcef3b2cb69e664bfafb9b5aad8.js",
+    "service-worker.js": "/socialmediaprojectidea/service-worker.js",
+    "static/css/2.5ec480d0.chunk.css.map": "/socialmediaprojectidea/static/css/2.5ec480d0.chunk.css.map",
+    "static/css/main.80ece895.chunk.css.map": "/socialmediaprojectidea/static/css/main.80ece895.chunk.css.map"
   }
 }
