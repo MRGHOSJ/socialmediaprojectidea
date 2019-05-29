@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-app-copyfb/static/css/main.80ece895.chunk.css",
+    "main.js": "/my-app-copyfb/static/js/main.98d68d68.chunk.js",
+    "main.js.map": "/my-app-copyfb/static/js/main.98d68d68.chunk.js.map",
+    "runtime~main.js": "/my-app-copyfb/static/js/runtime~main.ef682af7.js",
+    "runtime~main.js.map": "/my-app-copyfb/static/js/runtime~main.ef682af7.js.map",
+    "static/css/2.5ec480d0.chunk.css": "/my-app-copyfb/static/css/2.5ec480d0.chunk.css",
+    "static/js/2.17ad4842.chunk.js": "/my-app-copyfb/static/js/2.17ad4842.chunk.js",
+    "static/js/2.17ad4842.chunk.js.map": "/my-app-copyfb/static/js/2.17ad4842.chunk.js.map",
+    "index.html": "/my-app-copyfb/index.html",
+    "precache-manifest.c119863671d88df94215e6db43281219.js": "/my-app-copyfb/precache-manifest.c119863671d88df94215e6db43281219.js",
+    "service-worker.js": "/my-app-copyfb/service-worker.js",
+    "static/css/2.5ec480d0.chunk.css.map": "/my-app-copyfb/static/css/2.5ec480d0.chunk.css.map",
+    "static/css/main.80ece895.chunk.css.map": "/my-app-copyfb/static/css/main.80ece895.chunk.css.map"
+  }
+}
