@@ -1,0 +1,81 @@
+
+.UserSigninBox{
+    background-color: white;
+    padding: 0% !important;
+    background: rgba(255, 255, 255, 0.9);
+    border: 1px solid #c5c5c5;
+    -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+    -moz-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+    box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    position: absolute;
+    top: 10%;
+    width: 80%;
+}
+.UserSignUpBox{
+    background-color: white;
+    padding: 0% !important;
+    background: rgba(255, 255, 255, 0.9);
+    border: 1px solid #c5c5c5;
+    -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+    -moz-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+    box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    position: absolute;
+    top: 8%;
+    width: 80%;
+}
+.SignUpbutton{
+    border-radius: 12px;
+    background-color: rgb(72, 219, 138);
+    color: white;
+    font-size: 100%;
+    width: 50%;
+    padding: 2%;
+    border: 2px solid white;
+}
+.SignUpbutton:hover {
+    background-color: white;
+    color: rgb(72, 219, 138);
+}
+.SingInTextArea{
+    background-color: rgb(72, 219, 138);
+    margin: 0% !important;
+    width: 33.33%;
+}
+.SignText{
+    padding: 15%;
+    padding-top:40% !important;
+}
+.SingInArea{
+    padding: 15%;
+}
+.Submitebutton{
+    border-radius: 12px;
+    background-color: white;
+    color: rgb(72, 219, 138);
+    font-size: 100%;
+    width: 35%;
+    padding: 2%;
+    border: 2px solid rgb(72, 219, 138);
+}
+.Submitebutton:hover {
+    background-color: rgb(72, 219, 138);
+    color: white;
+}
+.SignText h3, p{
+    color: white;
+}
+.inputfill{
+    width: 55%;
+}
+.LoadingScrean{
+    position: fixed;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}

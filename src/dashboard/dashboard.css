@@ -1,0 +1,8 @@
+.Hovered:hover{
+    background: rgba(0,0,0,0.12);
+}
+.UserIcon{
+    position: absolute;
+    right:0%;
+    top:0.5%;
+}
