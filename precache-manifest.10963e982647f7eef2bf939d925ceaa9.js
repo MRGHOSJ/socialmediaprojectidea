@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a5b6ea82ba2b02bd4c290b3ac6462fd",
+    "revision": "af5704e830cea0a729cf849335f01b74",
     "url": "/socialmediaprojectidea/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/socialmediaprojectidea/static/css/2.5ec480d0.chunk.css"
   },
   {
-    "revision": "ee11576ed4baf4e2109f",
+    "revision": "f1277b2d3943e6734f25",
     "url": "/socialmediaprojectidea/static/css/main.80ece895.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/socialmediaprojectidea/static/js/2.94e9e5c4.chunk.js"
   },
   {
-    "revision": "ee11576ed4baf4e2109f",
-    "url": "/socialmediaprojectidea/static/js/main.28566477.chunk.js"
+    "revision": "f1277b2d3943e6734f25",
+    "url": "/socialmediaprojectidea/static/js/main.786daf05.chunk.js"
   },
   {
     "revision": "7fde56f9e10a24cad18f",
