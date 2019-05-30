@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/socialmediaprojectidea/static/css/main.1cab7b61.chunk.css",
-    "main.js": "/socialmediaprojectidea/static/js/main.c044df7a.chunk.js",
-    "main.js.map": "/socialmediaprojectidea/static/js/main.c044df7a.chunk.js.map",
+    "main.css": "/socialmediaprojectidea/static/css/main.67778cfc.chunk.css",
+    "main.js": "/socialmediaprojectidea/static/js/main.19980f9e.chunk.js",
+    "main.js.map": "/socialmediaprojectidea/static/js/main.19980f9e.chunk.js.map",
     "runtime~main.js": "/socialmediaprojectidea/static/js/runtime~main.a0979b3b.js",
     "runtime~main.js.map": "/socialmediaprojectidea/static/js/runtime~main.a0979b3b.js.map",
-    "static/css/2.5ec480d0.chunk.css": "/socialmediaprojectidea/static/css/2.5ec480d0.chunk.css",
-    "static/js/2.88c1a5dc.chunk.js": "/socialmediaprojectidea/static/js/2.88c1a5dc.chunk.js",
-    "static/js/2.88c1a5dc.chunk.js.map": "/socialmediaprojectidea/static/js/2.88c1a5dc.chunk.js.map",
+    "static/css/2.1e038316.chunk.css": "/socialmediaprojectidea/static/css/2.1e038316.chunk.css",
+    "static/js/2.9f8dc9d5.chunk.js": "/socialmediaprojectidea/static/js/2.9f8dc9d5.chunk.js",
+    "static/js/2.9f8dc9d5.chunk.js.map": "/socialmediaprojectidea/static/js/2.9f8dc9d5.chunk.js.map",
     "index.html": "/socialmediaprojectidea/index.html",
-    "precache-manifest.73cdf2534b1e801fc8c3243b4f6d14f9.js": "/socialmediaprojectidea/precache-manifest.73cdf2534b1e801fc8c3243b4f6d14f9.js",
+    "precache-manifest.856df30bcdc4237c2029c6b54953f9e0.js": "/socialmediaprojectidea/precache-manifest.856df30bcdc4237c2029c6b54953f9e0.js",
     "service-worker.js": "/socialmediaprojectidea/service-worker.js",
-    "static/css/2.5ec480d0.chunk.css.map": "/socialmediaprojectidea/static/css/2.5ec480d0.chunk.css.map",
-    "static/css/main.1cab7b61.chunk.css.map": "/socialmediaprojectidea/static/css/main.1cab7b61.chunk.css.map"
+    "static/css/2.1e038316.chunk.css.map": "/socialmediaprojectidea/static/css/2.1e038316.chunk.css.map",
+    "static/css/main.67778cfc.chunk.css.map": "/socialmediaprojectidea/static/css/main.67778cfc.chunk.css.map"
   }
 }
