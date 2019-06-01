@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/socialmediaprojectidea/static/css/main.21b979f1.chunk.css",
-    "main.js": "/socialmediaprojectidea/static/js/main.cccc85e0.chunk.js",
-    "main.js.map": "/socialmediaprojectidea/static/js/main.cccc85e0.chunk.js.map",
+    "main.css": "/socialmediaprojectidea/static/css/main.8a468290.chunk.css",
+    "main.js": "/socialmediaprojectidea/static/js/main.2f9c7059.chunk.js",
+    "main.js.map": "/socialmediaprojectidea/static/js/main.2f9c7059.chunk.js.map",
     "runtime~main.js": "/socialmediaprojectidea/static/js/runtime~main.a0979b3b.js",
     "runtime~main.js.map": "/socialmediaprojectidea/static/js/runtime~main.a0979b3b.js.map",
     "static/css/2.1e038316.chunk.css": "/socialmediaprojectidea/static/css/2.1e038316.chunk.css",
-    "static/js/2.5ad8e395.chunk.js": "/socialmediaprojectidea/static/js/2.5ad8e395.chunk.js",
-    "static/js/2.5ad8e395.chunk.js.map": "/socialmediaprojectidea/static/js/2.5ad8e395.chunk.js.map",
+    "static/js/2.92aa40cb.chunk.js": "/socialmediaprojectidea/static/js/2.92aa40cb.chunk.js",
+    "static/js/2.92aa40cb.chunk.js.map": "/socialmediaprojectidea/static/js/2.92aa40cb.chunk.js.map",
     "index.html": "/socialmediaprojectidea/index.html",
-    "precache-manifest.c24c25586827714da2fb2043154a25b2.js": "/socialmediaprojectidea/precache-manifest.c24c25586827714da2fb2043154a25b2.js",
+    "precache-manifest.d8f8123f31a73b0c969fa4efc43033cb.js": "/socialmediaprojectidea/precache-manifest.d8f8123f31a73b0c969fa4efc43033cb.js",
     "service-worker.js": "/socialmediaprojectidea/service-worker.js",
     "static/css/2.1e038316.chunk.css.map": "/socialmediaprojectidea/static/css/2.1e038316.chunk.css.map",
-    "static/css/main.21b979f1.chunk.css.map": "/socialmediaprojectidea/static/css/main.21b979f1.chunk.css.map"
+    "static/css/main.8a468290.chunk.css.map": "/socialmediaprojectidea/static/css/main.8a468290.chunk.css.map"
   }
 }
